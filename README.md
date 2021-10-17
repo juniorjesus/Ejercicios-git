@@ -6,6 +6,8 @@ Un módulo corto y bastante preciso de como aprenderemos a configurar nuestro en
 * El flujo de trabajo en Github
 * Comandos Básicos de linux
 * Visual studio code y sus extensiones
+
+
 #Comandos y Notas de Git y Github
 
 ### Pull y Push
